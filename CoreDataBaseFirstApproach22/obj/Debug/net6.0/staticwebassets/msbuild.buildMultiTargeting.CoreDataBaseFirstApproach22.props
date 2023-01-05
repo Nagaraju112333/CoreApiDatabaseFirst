@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoreDataBaseFirstApproach22.props" />
+</Project>
